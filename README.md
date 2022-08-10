@@ -1,6 +1,6 @@
 <div align=center>
 
-# reactStudy
+# 실무에서 리액트를 할 때 몰랐었던 점 정리
 
 </div>
 
