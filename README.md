@@ -9,6 +9,7 @@
 
 #
 
+
     const coinPanelList = [
       {idx:0,         symbol: 'BNB',          imgPath: 'bsc'},
       {idx:0,         symbol: 'ETH',          imgPath: 'eth'},
